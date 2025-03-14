@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Jake Christensen
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+TBD
 
 <!---
 Iako5/Iako5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
